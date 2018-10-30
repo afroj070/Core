@@ -9,7 +9,7 @@
         "doctrine/doctrine-bundle": "^1.6.10",
         "doctrine/doctrine-migrations-bundle": "^1.3",
         "doctrine/doctrine-fixtures-bundle": "^3.0@dev",   
-        "symfony/asset": "3.4.x-dev",
+        
         "symfony/security": "3.4.x-dev",
         "symfony/security-bundle": "3.4.x-dev",
         "symfony/twig-bundle": "3.4.x-dev",
