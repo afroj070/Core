@@ -1,6 +1,6 @@
 {
-    "name": "eshop/frontend",
-    "description": "eshop frontend part",
+    "name": "schoolManagement/core",
+    "description": "School Management core section",
     "type": "project",
     "license": "MIT",   
     "require-dev": {
