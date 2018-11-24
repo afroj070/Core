@@ -8,7 +8,7 @@
         "symfony/web-server-bundle": "^3.4"
     },
     "autoload": {
-        "psr-4": { "Firoj\\Eshop\\Frontend\\": "" }
+        "psr-4": { "Firoj\\SchoolManagement\\Core\\": "" }
     },
     "minimum-stability": "dev",
     "prefer-stable": true
