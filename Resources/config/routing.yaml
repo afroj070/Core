@@ -1,0 +1,5 @@
+user_authentication_routes:
+  resource: "@CoreBundle/Resources/config/routes/authentication.yaml"
+
+dashbaord_routes:
+  resource: "@CoreBundle/Resources/config/routes/dashboard.yaml"

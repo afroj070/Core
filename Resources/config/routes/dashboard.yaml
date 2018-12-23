@@ -1,0 +1,3 @@
+Dashboard:
+    path: /en/dashboard
+    controller: Firoj\SchoolManagement\Administrator\Controller\TestController::index
